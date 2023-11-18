@@ -3,6 +3,8 @@
   - Download source [VISIO 2016](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQjISpK4R3lDkgaoGE4m7dsB4EpqQVh7AgvdZ60prQ8jQA?e=VjA5eh):
   - https://drive.massgrave.dev/SW_DVD5_Visio_Pro_2016_W32_English_MLF_X20-41585.ISO
   - https://drive.massgrave.dev/SW_DVD5_Visio_Pro_2016_64Bit_English_MLF_X20-42764.ISO
+  - https://raw.githubusercontent.com/BsNgChiThanh/Cai-Visio2016-va-kich-hoat/IMP/OfficeSetupVisio2016x32.exe
+  - https://raw.githubusercontent.com/BsNgChiThanh/Cai-Visio2016-va-kich-hoat/IMP/OfficeSetupVisio2016x64.exe
   - Cài đặt như bình thường.
   - Cài xong thì tiến hành kích hoạt.
 
